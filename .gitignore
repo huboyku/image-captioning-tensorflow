@@ -1,0 +1,10 @@
+# Ignore dataset and temporary files
+data/images/
+data/captions/
+outputs/
+checkpoints/
+__pycache__/
+*.pkl
+*.json
+*.zip
+*.h5
