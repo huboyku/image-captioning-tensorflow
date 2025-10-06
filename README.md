@@ -133,11 +133,7 @@ requests>=2.31
 
 ---
 
-## 🧑‍💻 Author
-
-**[Your Name]**  
-💼 AI / ML Engineer | Deep Learning & Computer Vision  
-📫 [Your LinkedIn](https://www.linkedin.com/) • [Your Portfolio](https://github.com/yourusername)
+![Model Architecture](model.png)
 
 ---
 
